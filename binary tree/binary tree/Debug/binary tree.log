@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Lenovo\Desktop\university tasks\binary tree\binary tree\Source.cpp(119,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  binary tree.vcxproj -> C:\Users\Lenovo\Desktop\university tasks\binary tree\Debug\binary tree.exe

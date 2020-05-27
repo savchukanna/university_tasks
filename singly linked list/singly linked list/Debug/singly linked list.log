@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Lenovo\Desktop\university tasks\singly linked list\singly linked list\Source.cpp(112,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  singly linked list.vcxproj -> C:\Users\Lenovo\Desktop\university tasks\singly linked list\Debug\singly linked list.exe
